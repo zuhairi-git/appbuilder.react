@@ -117,7 +117,7 @@ const TablesWidget11: React.FC<Props> = ({className}) => {
                         Telegram Development
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        C#, ASP.NET, MS SQL
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>
@@ -176,7 +176,7 @@ const TablesWidget11: React.FC<Props> = ({className}) => {
                         Payroll Application
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        PHP, Laravel, VueJS
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>
@@ -235,7 +235,7 @@ const TablesWidget11: React.FC<Props> = ({className}) => {
                         HR Management System
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        Python, PostgreSQL, ReactJS
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>

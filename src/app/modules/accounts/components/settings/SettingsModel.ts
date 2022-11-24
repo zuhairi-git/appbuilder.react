@@ -89,7 +89,7 @@ export const profileDetailsInitValues: IProfileDetails = {
 }
 
 export const updateEmail: IUpdateEmail = {
-  newEmail: 'support@keenthemes.com',
+  newEmail: 'ali@appbuilder.cc',
   confirmPassword: '',
 }
 

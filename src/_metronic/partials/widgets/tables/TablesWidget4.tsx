@@ -72,7 +72,7 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                   <tr>
                     <td>
                       <div className='symbol symbol-50px'>
-                        <img src={toAbsoluteUrl('/media/avatars/300-14.jpg')} alt='' />
+                        <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                       </div>
                     </td>
                     <td>
@@ -113,12 +113,12 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                   <tr>
                     <td>
                       <div className='symbol symbol-50px'>
-                        <img src={toAbsoluteUrl('/media/avatars/300-5.jpg')} alt='' />
+                        <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                       </div>
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>HTML, CSS Coding</span>
                     </td>
@@ -154,12 +154,12 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                   <tr>
                     <td>
                       <div className='symbol symbol-50px'>
-                        <img src={toAbsoluteUrl('/media/avatars/300-20.jpg')} alt='' />
+                        <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                       </div>
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Lebron Wayde
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>ReactJS Developer</span>
                     </td>
@@ -195,7 +195,7 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                   <tr>
                     <td>
                       <div className='symbol symbol-50px'>
-                        <img src={toAbsoluteUrl('/media/avatars/300-23.jpg')} alt='' />
+                        <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                       </div>
                     </td>
                     <td>
@@ -236,12 +236,12 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                   <tr>
                     <td>
                       <div className='symbol symbol-50px'>
-                        <img src={toAbsoluteUrl('/media/avatars/300-10.jpg')} alt='' />
+                        <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                       </div>
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Kevin Leonard
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>Art Director</span>
                     </td>
@@ -307,7 +307,7 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Kevin Leonard
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>Art Director</span>
                     </td>
@@ -389,7 +389,7 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>HTML, CSS Coding</span>
                     </td>
@@ -496,7 +496,7 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>HTML, CSS Coding</span>
                     </td>
@@ -537,7 +537,7 @@ const TablesWidget4: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Lebron Wayde
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block fs-7'>ReactJS Developer</span>
                     </td>

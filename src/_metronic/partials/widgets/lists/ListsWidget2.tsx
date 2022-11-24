@@ -35,13 +35,13 @@ const ListsWidget2: React.FC<Props> = ({className}) => {
         <div className='d-flex align-items-center mb-7'>
           {/* begin::Avatar */}
           <div className='symbol symbol-50px me-5'>
-            <img src={toAbsoluteUrl('/media/avatars/300-6.jpg')} className='' alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} className='' alt='' />
           </div>
           {/* end::Avatar */}
           {/* begin::Text */}
           <div className='flex-grow-1'>
             <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-              Emma Smith
+              Ali Zuhairi
             </a>
             <span className='text-muted d-block fw-semibold'>Project Manager</span>
           </div>
@@ -52,15 +52,15 @@ const ListsWidget2: React.FC<Props> = ({className}) => {
         <div className='d-flex align-items-center mb-7'>
           {/* begin::Avatar */}
           <div className='symbol symbol-50px me-5'>
-            <img src={toAbsoluteUrl('/media/avatars/300-5.jpg')} className='' alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} className='' alt='' />
           </div>
           {/* end::Avatar */}
           {/* begin::Text */}
           <div className='flex-grow-1'>
             <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-              Sean Bean
+              Ali Zuhairi
             </a>
-            <span className='text-muted d-block fw-semibold'>PHP, SQLite, Artisan CLI</span>
+            <span className='text-muted d-block fw-semibold'>React JS, Senior UI/UX/Product Designer</span>
           </div>
           {/* end::Text */}
         </div>
@@ -69,15 +69,15 @@ const ListsWidget2: React.FC<Props> = ({className}) => {
         <div className='d-flex align-items-center mb-7'>
           {/* begin::Avatar */}
           <div className='symbol symbol-50px me-5'>
-            <img src={toAbsoluteUrl('/media/avatars/300-11.jpg')} className='' alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} className='' alt='' />
           </div>
           {/* end::Avatar */}
           {/* begin::Text */}
           <div className='flex-grow-1'>
             <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-              Brian Cox
+              Ali Zuhairi
             </a>
-            <span className='text-muted d-block fw-semibold'>PHP, SQLite, Artisan CLI</span>
+            <span className='text-muted d-block fw-semibold'>React JS, Senior UI/UX/Product Designer</span>
           </div>
           {/* end::Text */}
         </div>
@@ -86,15 +86,15 @@ const ListsWidget2: React.FC<Props> = ({className}) => {
         <div className='d-flex align-items-center mb-7'>
           {/* begin::Avatar */}
           <div className='symbol symbol-50px me-5'>
-            <img src={toAbsoluteUrl('/media/avatars/300-9.jpg')} className='' alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} className='' alt='' />
           </div>
           {/* end::Avatar */}
           {/* begin::Text */}
           <div className='flex-grow-1'>
             <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-              Francis Mitcham
+              Ali Zuhairi
             </a>
-            <span className='text-muted d-block fw-semibold'>PHP, SQLite, Artisan CLI</span>
+            <span className='text-muted d-block fw-semibold'>React JS, Senior UI/UX/Product Designer</span>
           </div>
           {/* end::Text */}
         </div>
@@ -103,15 +103,15 @@ const ListsWidget2: React.FC<Props> = ({className}) => {
         <div className='d-flex align-items-center'>
           {/* begin::Avatar */}
           <div className='symbol symbol-50px me-5'>
-            <img src={toAbsoluteUrl('/media/avatars/300-23.jpg')} className='' alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} className='' alt='' />
           </div>
           {/* end::Avatar */}
           {/* begin::Text */}
           <div className='flex-grow-1'>
             <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-              Dan Wilson
+              Ali Zuhairi
             </a>
-            <span className='text-muted d-block fw-semibold'>PHP, SQLite, Artisan CLI</span>
+            <span className='text-muted d-block fw-semibold'>React JS, Senior UI/UX/Product Designer</span>
           </div>
           {/* end::Text */}
         </div>

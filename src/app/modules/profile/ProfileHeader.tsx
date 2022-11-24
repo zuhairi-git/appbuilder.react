@@ -63,7 +63,7 @@ const ProfileHeader: React.FC = () => {
                       path='/media/icons/duotune/communication/com011.svg'
                       className='svg-icon-4 me-1'
                     />
-                    max@kt.com
+                    ali@appbuilder.cc
                   </a>
                 </div>
               </div>

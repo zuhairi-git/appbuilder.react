@@ -46,7 +46,7 @@ const Group: FC = () => {
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
                       Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>melody@altbox.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -65,9 +65,9 @@ const Group: FC = () => {
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Max Smith
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>max@kt.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -81,14 +81,14 @@ const Group: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-5.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Sean Bean
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>sean@dellito.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -103,14 +103,14 @@ const Group: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-25.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Brian Cox
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>brian@exchange.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -131,9 +131,9 @@ const Group: FC = () => {
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Mikaela Collins
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>mikaela@pexcom.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -147,14 +147,14 @@ const Group: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-9.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Francis Mitcham
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>f.mitcham@kpmg.com.au</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -177,9 +177,9 @@ const Group: FC = () => {
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Olivia Wild
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>olivia@corpmail.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -200,9 +200,9 @@ const Group: FC = () => {
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Neil Owen
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>owen.neil@gmail.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -217,14 +217,14 @@ const Group: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-23.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Dan Wilson
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>dam@consilting.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -247,9 +247,9 @@ const Group: FC = () => {
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Emma Bold
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>emma@intenso.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -268,16 +268,16 @@ const Group: FC = () => {
             <div className='card-title'>
               <div className='symbol-group symbol-hover'>
                 <div className='symbol symbol-35px symbol-circle'>
-                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-5.jpg')} />
+                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                 </div>
                 <div className='symbol symbol-35px symbol-circle'>
-                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-25.jpg')} />
+                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                 </div>
                 <div className='symbol symbol-35px symbol-circle'>
                   <span className='symbol-label bg-light-warning text-warning 40px'>M</span>
                 </div>
                 <div className='symbol symbol-35px symbol-circle'>
-                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-9.jpg')} />
+                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                 </div>
                 <div className='symbol symbol-35px symbol-circle'>
                   <span className='symbol-label bg-light-danger text-danger 40px'>O</span>
@@ -286,7 +286,7 @@ const Group: FC = () => {
                   <span className='symbol-label bg-light-primary text-primary 40px'>N</span>
                 </div>
                 <div className='symbol symbol-35px symbol-circle'>
-                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-23.jpg')} />
+                  <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                 </div>
                 <a
                   href='#'

@@ -18,14 +18,14 @@ const FeedsWidget3: React.FC<Props> = ({className}) => {
           <div className='d-flex align-items-center flex-grow-1'>
             {/* begin::Avatar */}
             <div className='symbol symbol-45px me-5'>
-              <img src={toAbsoluteUrl('/media/avatars/300-21.jpg')} alt='' />
+              <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
             </div>
             {/* end::Avatar */}
 
             {/* begin::Info */}
             <div className='d-flex flex-column'>
               <a href='#' className='text-gray-800 text-hover-primary fs-6 fw-bold'>
-                Carles Nilson
+                Ali Zuhairi
               </a>
               <span className='text-gray-400 fw-semibold'>Yestarday at 5:06 PM</span>
             </div>
@@ -87,7 +87,7 @@ const FeedsWidget3: React.FC<Props> = ({className}) => {
           <div className='d-flex mb-5'>
             {/* begin::Avatar */}
             <div className='symbol symbol-45px me-5'>
-              <img src={toAbsoluteUrl('/media/avatars/300-14.jpg')} alt='' />
+              <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
             </div>
             {/* end::Avatar */}
 
@@ -96,7 +96,7 @@ const FeedsWidget3: React.FC<Props> = ({className}) => {
               {/* begin::Info */}
               <div className='d-flex align-items-center flex-wrap mb-1'>
                 <a href='#' className='text-gray-800 text-hover-primary fw-bold me-2'>
-                  Alice Danchik
+                  Ali Zuhairi
                 </a>
 
                 <span className='text-gray-400 fw-semibold fs-7'>1 day</span>
@@ -122,7 +122,7 @@ const FeedsWidget3: React.FC<Props> = ({className}) => {
           <div className='d-flex'>
             {/* begin::Avatar */}
             <div className='symbol symbol-45px me-5'>
-              <img src={toAbsoluteUrl('/media/avatars/300-9.jpg')} alt='' />
+              <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
             </div>
             {/* end::Avatar */}
 
@@ -131,7 +131,7 @@ const FeedsWidget3: React.FC<Props> = ({className}) => {
               {/* begin::Info */}
               <div className='d-flex align-items-center flex-wrap mb-1'>
                 <a href='#' className='text-gray-800 text-hover-primary fw-bold me-2'>
-                  Harris Bold
+                  Ali Zuhairi
                 </a>
 
                 <span className='text-gray-400 fw-semibold fs-7'>2 days</span>

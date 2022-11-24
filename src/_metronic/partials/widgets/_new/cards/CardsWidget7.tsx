@@ -18,11 +18,11 @@ const items: Array<{
   state?: string
 }> = [
   {name: 'Alan Warden', initials: 'A', state: 'warning'},
-  {name: 'Michael Eberon', src: toAbsoluteUrl('/media/avatars/300-11.jpg')},
+  {name: 'Michael Eberon', src: toAbsoluteUrl('/media/avatars/ali.jpg')},
   {name: 'Susan Redwood', initials: 'S', state: 'primary'},
-  {name: 'Melody Macy', src: toAbsoluteUrl('/media/avatars/300-2.jpg')},
+  {name: 'Ali Zuhairi', src: toAbsoluteUrl('/media/avatars/ali.jpg')},
   {name: 'Perry Matthew', initials: 'P', state: 'danger'},
-  {name: 'Barry Walter', src: toAbsoluteUrl('/media/avatars/300-12.jpg')},
+  {name: 'Barry Walter', src: toAbsoluteUrl('/media/avatars/ali.jpg')},
 ]
 
 const CardsWidget7 = ({className, description, icon, stats, labelColor, textColor}: Props) => (

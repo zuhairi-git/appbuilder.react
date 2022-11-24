@@ -47,7 +47,7 @@ const MixedWidget5: React.FC<Props> = ({className, time, image, title, descripti
             data-bs-toggle='tooltip'
             title='Ana Stone'
           >
-            <img src={toAbsoluteUrl('/media/avatars/300-6.jpg')} alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
           </a>
 
           <a
@@ -56,7 +56,7 @@ const MixedWidget5: React.FC<Props> = ({className, time, image, title, descripti
             data-bs-toggle='tooltip'
             title='Mark Larson'
           >
-            <img src={toAbsoluteUrl('/media/avatars/300-5.jpg')} alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
           </a>
 
           <a
@@ -65,7 +65,7 @@ const MixedWidget5: React.FC<Props> = ({className, time, image, title, descripti
             data-bs-toggle='tooltip'
             title='Sam Harris'
           >
-            <img src={toAbsoluteUrl('/media/avatars/300-9.jpg')} alt='' />
+            <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
           </a>
         </div>
         {/* end::Team */}

@@ -231,10 +231,10 @@ const TablesWidget12: React.FC<Props> = ({className}) => {
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Lebron Wayde
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        PHP, Laravel, VueJS
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>
@@ -462,7 +462,7 @@ const TablesWidget12: React.FC<Props> = ({className}) => {
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
                         HTML, JS, ReactJS

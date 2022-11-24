@@ -120,7 +120,7 @@ const TablesWidget6: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block'>HTML, CSS Coding</span>
                     </td>
@@ -157,9 +157,9 @@ const TablesWidget6: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
-                      <span className='text-muted fw-semibold d-block'>PHP, Laravel, VueJS</span>
+                      <span className='text-muted fw-semibold d-block'>React JS, Senior UI/UX/Product Designer</span>
                     </td>
                     <td>
                       <span className='text-muted fw-semibold d-block fs-7'>Paid</span>
@@ -231,7 +231,7 @@ const TablesWidget6: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Kevin Leonard
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block'>Art Director</span>
                     </td>
@@ -293,7 +293,7 @@ const TablesWidget6: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block'>HTML, CSS Coding</span>
                     </td>
@@ -429,7 +429,7 @@ const TablesWidget6: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block'>HTML, CSS Coding</span>
                     </td>
@@ -503,7 +503,7 @@ const TablesWidget6: React.FC<Props> = ({className}) => {
                     </td>
                     <td>
                       <a href='#' className='text-dark fw-bold text-hover-primary mb-1 fs-6'>
-                        Kevin Leonard
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold d-block'>Art Director</span>
                     </td>

@@ -272,7 +272,7 @@ const users7 = [
 ]
 
 const users8 = [
-  {name: 'Emma Smith', avatar: '/media/avatars/ali.jpg'},
+  {name: 'Ali Zuhairi', avatar: '/media/avatars/ali.jpg'},
   {name: 'Rudy Stone', avatar: '/media/avatars/ali.jpg'},
   {name: 'Susan Redwood', initials: 'S', color: 'primary'},
 ]

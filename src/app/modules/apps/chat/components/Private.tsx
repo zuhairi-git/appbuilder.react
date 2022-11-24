@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import React, {FC} from 'react'
-import {KTSVG, toAbsoluteUrl} from '../../../../../_metronic/helpers'
-import {Dropdown1, ChatInner} from '../../../../../_metronic/partials'
+import React, { FC } from 'react'
+import { KTSVG, toAbsoluteUrl } from '../../../../../_metronic/helpers'
+import { Dropdown1, ChatInner } from '../../../../../_metronic/partials'
 
 const Private: FC = () => {
   return (
@@ -38,15 +38,15 @@ const Private: FC = () => {
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
                     <span className='symbol-label bg-light-danger text-danger fs-6 fw-bolder'>
-                      M
+                      A
                     </span>
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Melody Macy
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>melody@altbox.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -65,9 +65,9 @@ const Private: FC = () => {
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Max Smith
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>max@kt.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -81,14 +81,14 @@ const Private: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-5.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Sean Bean
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>sean@dellito.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -103,14 +103,14 @@ const Private: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-25.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Brian Cox
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>brian@exchange.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -125,15 +125,15 @@ const Private: FC = () => {
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
                     <span className='symbol-label bg-light-warning text-warning fs-6 fw-bolder'>
-                      M
+                      A
                     </span>
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Mikaela Collins
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>mikaela@pexcom.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -147,14 +147,14 @@ const Private: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-9.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Francis Mitcham
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>f.mitcham@kpmg.com.au</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -170,16 +170,16 @@ const Private: FC = () => {
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
                     <span className='symbol-label bg-light-danger text-danger fs-6 fw-bolder'>
-                      O
+                      A
                     </span>
                     <div className='symbol-badge bg-success start-100 top-100 border-4 h-15px w-15px ms-n2 mt-n2'></div>
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Olivia Wild
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>olivia@corpmail.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -194,15 +194,15 @@ const Private: FC = () => {
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
                     <span className='symbol-label bg-light-primary text-primary fs-6 fw-bolder'>
-                      N
+                      A
                     </span>
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Neil Owen
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>owen.neil@gmail.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -217,14 +217,14 @@ const Private: FC = () => {
               <div className='d-flex flex-stack py-4'>
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
-                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/300-23.jpg')} />
+                    <img alt='Pic' src={toAbsoluteUrl('/media/avatars/ali.jpg')} />
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Dan Wilson
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>dam@consilting.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -240,16 +240,16 @@ const Private: FC = () => {
                 <div className='d-flex align-items-center'>
                   <div className='symbol symbol-45px symbol-circle'>
                     <span className='symbol-label bg-light-danger text-danger fs-6 fw-bolder'>
-                      E
+                      A
                     </span>
                     <div className='symbol-badge bg-success start-100 top-100 border-4 h-15px w-15px ms-n2 mt-n2'></div>
                   </div>
 
                   <div className='ms-5'>
                     <a href='#' className='fs-5 fw-bolder text-gray-900 text-hover-primary mb-2'>
-                      Emma Bold
+                      Ali Zuhairi
                     </a>
-                    <div className='fw-bold text-gray-400'>emma@intenso.com</div>
+                    <div className='fw-bold text-gray-400'>ali@appbuilder.cc</div>
                   </div>
                 </div>
 
@@ -268,11 +268,8 @@ const Private: FC = () => {
             <div className='card-title'>
               <div className='symbol-group symbol-hover'></div>
               <div className='d-flex justify-content-center flex-column me-3'>
-                <a
-                  href='#'
-                  className='fs-4 fw-bolder text-gray-900 text-hover-primary me-1 mb-2 lh-1'
-                >
-                  Brian Cox
+                <a href='#' className='fs-4 fw-bolder text-gray-900 text-hover-primary me-1 mb-2 lh-1'>
+                  Ali Zuhairi
                 </a>
 
                 <div className='mb-0 lh-1'>
@@ -303,4 +300,4 @@ const Private: FC = () => {
   )
 }
 
-export {Private}
+export { Private }

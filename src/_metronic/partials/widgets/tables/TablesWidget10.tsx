@@ -72,11 +72,11 @@ const TablesWidget10: React.FC<Props> = ({className}) => {
                 <td>
                   <div className='d-flex align-items-center'>
                     <div className='symbol symbol-45px me-5'>
-                      <img src={toAbsoluteUrl('/media/avatars/300-14.jpg')} alt='' />
+                      <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-                        Ana Simmons
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
                         HTML, JS, ReactJS
@@ -144,14 +144,14 @@ const TablesWidget10: React.FC<Props> = ({className}) => {
                 <td>
                   <div className='d-flex align-items-center'>
                     <div className='symbol symbol-45px me-5'>
-                      <img src={toAbsoluteUrl('/media/avatars/300-2.jpg')} alt='' />
+                      <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-                        Jessie Clarcson
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        C#, ASP.NET, MS SQL
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>
@@ -216,14 +216,14 @@ const TablesWidget10: React.FC<Props> = ({className}) => {
                 <td>
                   <div className='d-flex align-items-center'>
                     <div className='symbol symbol-45px me-5'>
-                      <img src={toAbsoluteUrl('/media/avatars/300-5.jpg')} alt='' />
+                      <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-                        Lebron Wayde
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        PHP, Laravel, VueJS
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>
@@ -286,14 +286,14 @@ const TablesWidget10: React.FC<Props> = ({className}) => {
                 <td>
                   <div className='d-flex align-items-center'>
                     <div className='symbol symbol-45px me-5'>
-                      <img src={toAbsoluteUrl('/media/avatars/300-20.jpg')} alt='' />
+                      <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-                        Natali Goodwin
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
-                        Python, PostgreSQL, ReactJS
+                        React JS, Senior UI/UX/Product Designer
                       </span>
                     </div>
                   </div>
@@ -356,11 +356,11 @@ const TablesWidget10: React.FC<Props> = ({className}) => {
                 <td>
                   <div className='d-flex align-items-center'>
                     <div className='symbol symbol-45px me-5'>
-                      <img src={toAbsoluteUrl('/media/avatars/300-23.jpg')} alt='' />
+                      <img src={toAbsoluteUrl('/media/avatars/ali.jpg')} alt='' />
                     </div>
                     <div className='d-flex justify-content-start flex-column'>
                       <a href='#' className='text-dark fw-bold text-hover-primary fs-6'>
-                        Kevin Leonard
+                        Ali Zuhairi
                       </a>
                       <span className='text-muted fw-semibold text-muted d-block fs-7'>
                         HTML, JS, ReactJS
