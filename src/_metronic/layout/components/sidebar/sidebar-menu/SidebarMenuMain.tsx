@@ -22,6 +22,21 @@ const SidebarMenuMain = () => {
         title='Layout Builder'
         fontIcon='bi-layers'
       />
+
+      {/* App Builder */}
+      <div className='menu-item'>
+        <div className='menu-content pt-8 pb-2'>
+          <span className='menu-section text-muted text-uppercase fs-8 ls-1'>Project Management</span>
+        </div>
+      </div>
+      <SidebarMenuItem
+        to='/app-projects'
+        icon='/media/icons/duotune/general/gen062.svg'
+        title='Projects'
+        fontIcon='bi-layers'
+      />
+      {/* App Builder */}
+
       <div className='menu-item'>
         <div className='menu-content pt-8 pb-2'>
           <span className='menu-section text-muted text-uppercase fs-8 ls-1'>Crafted</span>
