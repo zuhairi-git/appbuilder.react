@@ -13,11 +13,11 @@ export function AppProjects() {
 					<div className="card-header border-0 pt-9">
 						{/*begin::Card Title*/}
 						<div className="card-title m-0">
-							{/*begin::Avatar*/}
-							<div className="symbol symbol-75px w-75px bg-light">
-							<img src={"./media/svg/mylogos/SmartBanking-v-nobg.svg"} alt="image" className="p-3" />
+							{/*begin::AppLogo*/}
+							<div className="symbol symbol-75px w-75px">
+								<img src={"./media/svg/mylogos/SmartBanking-v.svg"} alt="AppLogo" />
 							</div>
-							{/*end::Avatar*/}
+							{/*end::AppLogo*/}
 						</div>
 						{/*end::Car Title*/}
 						{/*begin::Card toolbar*/}
