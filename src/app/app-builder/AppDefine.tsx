@@ -1,4 +1,5 @@
 import React from 'react'
+import { FloatingLabel, Form } from 'react-bootstrap'
 
 export function AppDefine() {
   return (
@@ -222,8 +223,14 @@ export function AppDefine() {
                             <input className="form-check-input" type="checkbox" value="" id="flexSwitchChecked" control-id="ControlID-6" />
                           </div>
                         </div>
-                      </div>
+                        <Form.Control
+                          className='w-100 mt-5'
+                          as="textarea"
+                          placeholder="Leave a comment here"
+                          style={{ height: '100px' }}
+                        />
 
+                      </div>
                     </div>
                     {/*end::Text*/}
                   </div>
@@ -232,8 +239,15 @@ export function AppDefine() {
                   <div className="d-flex align-items-center mb-7">
                     {/*begin::Text*/}
                     <div className="d-flex flex-column w-100">
-                      <a href="#" className="text-dark text-hover-primary fs-6 fw-bold">App Context</a>
-
+                      <div className="row">
+                        <a href="#" className="text-dark text-hover-primary fs-6 fw-bold">App Context</a>
+                        <Form.Control
+                          className='w-100 mt-5'
+                          as="textarea"
+                          placeholder="Leave a comment here"
+                          style={{ height: '100px' }}
+                        />
+                      </div>
                     </div>
                     {/*end::Text*/}
                   </div>
