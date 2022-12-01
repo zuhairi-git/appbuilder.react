@@ -12,6 +12,7 @@ import { AppDesign } from "../app-builder/AppDesign"
 import { AppProjects } from '../app-builder/AppProjects'
 import { AppProjectHome } from '../app-builder/AppProjectHome'
 import { AppProjectHomeHeader } from '../app-builder/AppProjectHomeHeader'
+import { ProjectHome } from '../app-builder/ProjectHome'
 
 const PrivateRoutes = () => {
   const ProfilePage = lazy(() => import('../modules/profile/ProfilePage'))
@@ -30,6 +31,7 @@ const PrivateRoutes = () => {
         <Route path="app-define" element={<AppDefine />} />
         <Route path="app-design" element={<AppDesign />} />
         <Route path="app-project-home" element={<AppProjectHome />} />
+        <Route path="project-home" element={<ProjectHome />} />
         <Route path="app-project-home-header" element={<AppProjectHomeHeader />} />
         <Route path="app-projects" element={<AppProjects />} />
         <Route path='dashboard' element={<DashboardWrapper />} />
