@@ -8,7 +8,7 @@ export function AppProjects() {
 			{/*begin::Col*/}
 			<div className="col-md-6 col-xl-4">
 				{/*begin::Card*/}
-				<Link to={"../app-define"} className="card border-hover-primary">
+				<Link to={"../app-project-home"} className="card border-hover-primary">
 					{/*begin::Card header*/}
 					<div className="card-header border-0 pt-9">
 						{/*begin::Card Title*/}
