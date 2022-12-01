@@ -8,6 +8,7 @@ import { getCSSVariableValue } from '../../_metronic/assets/ts/_utils'
 import { WithChildren } from '../../_metronic/helpers'
 import BuilderPageWrapper from '../pages/layout-builder/BuilderPageWrapper'
 import { AppDefine } from "../app-builder/AppDefine"
+import { AppDesign } from "../app-builder/AppDesign"
 import { AppProjects } from '../app-builder/AppProjects'
 import { AppProjectHome } from '../app-builder/AppProjectHome'
 import { AppProjectHomeHeader } from '../app-builder/AppProjectHomeHeader'
@@ -27,6 +28,7 @@ const PrivateRoutes = () => {
         <Route path='auth/*' element={<Navigate to='/dashboard' />} />
         {/* Pages */}
         <Route path="app-define" element={<AppDefine />} />
+        <Route path="app-design" element={<AppDesign />} />
         <Route path="app-project-home" element={<AppProjectHome />} />
         <Route path="app-project-home-header" element={<AppProjectHomeHeader />} />
         <Route path="app-projects" element={<AppProjects />} />
