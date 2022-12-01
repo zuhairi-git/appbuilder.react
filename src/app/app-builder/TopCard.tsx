@@ -7,7 +7,7 @@ export function TopCard() {
       <div className='me-7 mb-4'>
         <div className='symbol symbol-100px symbol-lg-75px symbol-fixed position-relative'>
           <img src={toAbsoluteUrl('/media/svg/mylogos/AppBuilder-v-nobg.svg')} alt='Ali' />
-          <div className='position-absolute translate-middle bottom-0 start-100 mb-6 bg-success rounded-circle border border-4 border-white h-20px w-20px'></div>
+          <div className='d-none position-absolute translate-middle bottom-0 start-100 mb-6 bg-success rounded-circle border border-4 border-white h-20px w-20px'></div>
         </div>
       </div>
 
@@ -29,7 +29,7 @@ export function TopCard() {
                   path='/media/icons/duotune/communication/com006.svg'
                   className='svg-icon-4 me-1'
                 />
-                Developer: Ali Zuhairi
+                Ali Zuhairi
               </a>
               <a
                 href='#'
