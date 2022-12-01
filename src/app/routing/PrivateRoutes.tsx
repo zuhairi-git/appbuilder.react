@@ -10,6 +10,7 @@ import BuilderPageWrapper from '../pages/layout-builder/BuilderPageWrapper'
 import { AppDefine } from "../app-builder/AppDefine"
 import { AppProjects } from '../app-builder/AppProjects'
 import { AppProjectHome } from '../app-builder/AppProjectHome'
+import { AppProjectHomeHeader } from '../app-builder/AppProjectHomeHeader'
 
 const PrivateRoutes = () => {
   const ProfilePage = lazy(() => import('../modules/profile/ProfilePage'))
@@ -27,6 +28,7 @@ const PrivateRoutes = () => {
         {/* Pages */}
         <Route path="app-define" element={<AppDefine />} />
         <Route path="app-project-home" element={<AppProjectHome />} />
+        <Route path="app-project-home-header" element={<AppProjectHomeHeader />} />
         <Route path="app-projects" element={<AppProjects />} />
         <Route path='dashboard' element={<DashboardWrapper />} />
         <Route path='builder' element={<BuilderPageWrapper />} />
