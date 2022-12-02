@@ -3,7 +3,7 @@ import {KTSVG} from '../../../helpers'
 
 const SidebarFooter = () => {
   return (
-    <div className='app-sidebar-footer flex-column-auto pt-2 pb-6 px-6' id='kt_app_sidebar_footer'>
+    <div className='d-none app-sidebar-footer flex-column-auto pt-2 pb-6 px-6' id='kt_app_sidebar_footer'>
       <a
         href={process.env.REACT_APP_PREVIEW_DOCS_URL}
         target='_blank'

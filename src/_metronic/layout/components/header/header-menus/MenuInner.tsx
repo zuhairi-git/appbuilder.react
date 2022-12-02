@@ -8,11 +8,14 @@ export function MenuInner() {
   return (
     <>
       <MenuItem title={intl.formatMessage({id: 'MENU.DASHBOARD'})} to='/dashboard' />
+      <div className='d-none'>
       <MenuItem title='Layout Builder' to='/builder' />
+      </div>
 
       {/* App Builder */}
       <MenuItem title='Projects' to='/app-projects' />
 
+      <div className='d-none'>
       <MenuInnerWithSub
         title='Crafted'
         to='/crafted'
@@ -133,6 +136,7 @@ export function MenuInner() {
       >
         <MegaMenu />
       </MenuInnerWithSub>
+      </div>
     </>
   )
 }
