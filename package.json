@@ -55,6 +55,7 @@
     "@types/sass-loader": "8.0.3",
     "css-loader": "6.7.1",
     "del": "6.0.0",
+    "gh-pages": "^4.0.0",
     "mini-css-extract-plugin": "2.6.1",
     "prettier": "2.6.2",
     "rtlcss-webpack-plugin": "4.0.7",
