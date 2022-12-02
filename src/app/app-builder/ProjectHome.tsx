@@ -1,6 +1,7 @@
 import React from 'react'
 import { AppDefine } from './AppDefine'
 import { AppDesign } from './AppDesign'
+import { AppDistribute } from './AppDistribute'
 import { TopCard } from './TopCard'
 
 export function ProjectHome() {
@@ -32,7 +33,7 @@ export function ProjectHome() {
               <a
                 className="nav-link"
                 data-bs-toggle="tab"
-                href="#kt_tab_pane_3"
+                href="#distribute"
               >
                 Distribute
               </a>
@@ -59,15 +60,14 @@ export function ProjectHome() {
         </div>
       </div>
       <div className="tab-content" id="myTabContent">
-        <div
-          className="tab-pane fade active show"
-          id="kt_tab_pane_1"
-          role="tabpanel"
-        >
+        <div className="tab-pane fade active show" id="kt_tab_pane_1" role="tabpanel">
           <AppDefine />
         </div>
         <div className="tab-pane fade" id="kt_tab_pane_2" role="tabpanel">
           <AppDesign />
+        </div>
+        <div className="tab-pane fade" id="distribute" role="tabpanel">
+          <AppDistribute />
         </div>
       </div>
     </>
