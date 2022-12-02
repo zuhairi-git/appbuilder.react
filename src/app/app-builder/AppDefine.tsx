@@ -1,5 +1,6 @@
 import React from 'react'
 import { FloatingLabel, Form } from 'react-bootstrap'
+import { AppImageInput } from './app-functions/AppImageInput'
 
 export function AppDefine() {
   return (
@@ -82,30 +83,7 @@ export function AppDefine() {
                   {/*begin::Image input*/}
                   <div className="image-input mt-3 image-input-empty w-150px h-150px" data-kt-image-input="true" >
                     {/*begin::Image preview wrapper*/}
-                    <div className="image-input-wrapper w-150px h-150px"></div>
-                    {/*end::Image preview wrapper*/}
-
-                    {/*begin::Edit button*/}
-                    <label className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="change" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Change avatar" data-kt-initialized="1" >
-                      <i className="bi bi-pencil-fill fs-7"></i>
-
-                      {/*begin::Inputs*/}
-                      <input type="file" name="avatar" accept=".png, .jpg, .jpeg" control-id="ControlID-5" />
-                      <input type="hidden" name="avatar_remove" />
-                      {/*end::Inputs*/}
-                    </label>
-                    {/*end::Edit button*/}
-
-                    {/*begin::Cancel button*/}
-                    <span className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="cancel" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Cancel avatar" data-kt-initialized="1">
-                      <i className="bi bi-x fs-2"></i>
-                    </span>
-                    {/*end::Cancel button*/}
-
-                    {/*begin::Remove button*/}
-                    <span className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="remove" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Remove avatar" data-kt-initialized="1">
-                      <i className="bi bi-x fs-2"></i>
-                    </span>
+                    <AppImageInput />
                     {/*end::Remove button*/}
                   </div>
                   {/*end::Image input*/}
@@ -121,30 +99,7 @@ export function AppDefine() {
                   {/*begin::Image input*/}
                   <div className="image-input mt-3 image-input-empty w-150px h-150px" data-kt-image-input="true" >
                     {/*begin::Image preview wrapper*/}
-                    <div className="image-input-wrapper w-150px h-150px"></div>
-                    {/*end::Image preview wrapper*/}
-
-                    {/*begin::Edit button*/}
-                    <label className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="change" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Change avatar" data-kt-initialized="1">
-                      <i className="bi bi-pencil-fill fs-7"></i>
-
-                      {/*begin::Inputs*/}
-                      <input type="file" name="avatar" accept=".png, .jpg, .jpeg" />
-                      <input type="hidden" name="avatar_remove" />
-                      {/*end::Inputs*/}
-                    </label>
-                    {/*end::Edit button*/}
-
-                    {/*begin::Cancel button*/}
-                    <span className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="cancel" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Cancel avatar" data-kt-initialized="1">
-                      <i className="bi bi-x fs-2"></i>
-                    </span>
-                    {/*end::Cancel button*/}
-
-                    {/*begin::Remove button*/}
-                    <span className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="remove" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Remove avatar" data-kt-initialized="1">
-                      <i className="bi bi-x fs-2"></i>
-                    </span>
+                    <AppImageInput />
                     {/*end::Remove button*/}
                   </div>
                   {/*end::Image input*/}
@@ -158,32 +113,9 @@ export function AppDefine() {
                 <div className="d-flex flex-column w-100">
                   <a href="#" className="text-dark text-hover-primary fs-6 fw-bold">Select a Splash</a>
                   {/*begin::Image input*/}
-                  <div className="image-input mt-3 image-input-empty w-300px h-300px" data-kt-image-input="true" >
+                  <div className="image-input mt-3 image-input-empty w-250px h-250px" data-kt-image-input="true" >
                     {/*begin::Image preview wrapper*/}
-                    <div className="image-input-wrapper w-300px h-300px"></div>
-                    {/*end::Image preview wrapper*/}
-
-                    {/*begin::Edit button*/}
-                    <label className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="change" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Change avatar" data-kt-initialized="1">
-                      <i className="bi bi-pencil-fill fs-7"></i>
-
-                      {/*begin::Inputs*/}
-                      <input type="file" name="avatar" accept=".png, .jpg, .jpeg" />
-                      <input type="hidden" name="avatar_remove" />
-                      {/*end::Inputs*/}
-                    </label>
-                    {/*end::Edit button*/}
-
-                    {/*begin::Cancel button*/}
-                    <span className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="cancel" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Cancel avatar" data-kt-initialized="1">
-                      <i className="bi bi-x fs-2"></i>
-                    </span>
-                    {/*end::Cancel button*/}
-
-                    {/*begin::Remove button*/}
-                    <span className="btn btn-icon btn-circle btn-color-muted btn-active-color-primary w-25px h-25px bg-body shadow" data-kt-image-input-action="remove" data-bs-toggle="tooltip" data-bs-dismiss="click" aria-label="Remove avatar" data-kt-initialized="1">
-                      <i className="bi bi-x fs-2"></i>
-                    </span>
+                    <AppImageInput />
                     {/*end::Remove button*/}
                   </div>
                   {/*end::Image input*/}

@@ -42,7 +42,6 @@ export function AppDesign() {
             <AppNewItem />
             <div className="separator mt-3 mb-3"></div>
             <AppNewItem />
-
           </div>
         </div>
       </div>

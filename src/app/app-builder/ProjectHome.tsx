@@ -37,6 +37,24 @@ export function ProjectHome() {
                 Distribute
               </a>
             </li>
+            <li className="nav-item">
+              <a
+                className="nav-link"
+                data-bs-toggle="tab"
+                href="#kt_tab_pane_4"
+              >
+                Prototype
+              </a>
+            </li>
+            <li className="nav-item">
+              <a
+                className="nav-link"
+                data-bs-toggle="tab"
+                href="#kt_tab_pane_5"
+              >
+                Flow
+              </a>
+            </li>
           </ul>
         </div>
       </div>

@@ -1,5 +1,4 @@
 import React from 'react'
-import { KTSVG, toAbsoluteUrl } from '../../../_metronic/helpers'
 
 export function AppNewItem() {
   return (
@@ -7,7 +6,7 @@ export function AppNewItem() {
       <div className="col-md-auto text-center">
         <div className="vstack mb-3">
           <label>Item Icon</label>
-          <i className="fa fa-right-from-bracket fs-2x mt-2"></i>
+          <i className="fa fa-address-book fs-2x mt-2"></i>
         </div>
       </div>
       <div className="col-md-auto">
@@ -26,10 +25,10 @@ export function AppNewItem() {
         <div className="vstack mb-3">
           <label>Function Type</label>
           <select className="form-select form-select-solid" aria-label="Select example">
-            <option>Open this select menu</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
+            <option>Select Your Function</option>
+            <option value="1">NFC</option>
+            <option value="2">Bluetooth</option>
+            <option value="3">Barcode</option>
           </select>
         </div>
       </div>
@@ -37,10 +36,10 @@ export function AppNewItem() {
         <div className="vstack mb-3">
           <label>Visibility</label>
           <select className="form-select form-select-solid" aria-label="Select example">
-            <option>Open this select menu</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
+            <option>Select Your Visibility</option>
+            <option value="1">Hidden</option>
+            <option value="2">Visable</option>
+            <option value="3">Auto</option>
           </select>
         </div>
       </div>
