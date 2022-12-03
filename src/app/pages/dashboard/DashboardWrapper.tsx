@@ -23,7 +23,7 @@ const DashboardPage: FC = () => (
     {/* begin::Row */}
     <div className='row g-5 g-xl-12 mb-5 mb-xl-10'>
       {/* begin::Col */}
-      <div className='col-md-6 col-lg-6 col-xl-6 col-xxl-6 mb-md-5 mb-xl-10'>
+      <div className='col-xl-6 mb-md-5 mb-xl-10'>
         <CardsWidget20
           className='h-md-50 mb-5 mb-xl-10'
           description='Active Projects'
@@ -40,20 +40,32 @@ const DashboardPage: FC = () => (
         />
       </div>
       {/* end::Col */}
-
-      <div className='d-none '>
-        {/* begin::Col */}
-        <div className='col-md-6 col-lg-6 col-xl-6 col-xxl-3 mb-md-5 mb-xl-10'>
-          <CardsWidget17 className='h-md-50 mb-5 mb-xl-10' />
-          <ListsWidget26 className='h-lg-50' />
-        </div>
-        {/* end::Col */}
-      </div>
-
-      <div className='col-xxl-6'>
+      <div className='col-xl-6'>
         <ListsWidget3 className='card-xxl-stretch mb-xl-3' />
       </div>
     </div>
+
+    {/* begin::Row */}
+    <div className='row gy-5 g-xl-8'>
+      <div className='col-xl-4'>
+        <ListsWidget2 className='card-xl-stretch mb-xl-8' />
+      </div>
+      <div className='col-xl-8'>
+        <TablesWidget5 className='card-xxl-stretch mb-5 mb-xxl-8' />
+      </div>
+    </div>
+    {/* end::Row */}
+
+
+    <div className='d-none '>
+      {/* begin::Col */}
+      <div className='col-xl-6 mb-md-5 mb-xl-10'>
+        <CardsWidget17 className='h-md-50 mb-5 mb-xl-10' />
+        <ListsWidget26 className='h-lg-50' />
+      </div>
+      {/* end::Col */}
+    </div>
+
     {/* end::Row */}
 
     {/* begin::Row */}
@@ -76,17 +88,6 @@ const DashboardPage: FC = () => (
     <div className='d-none row gy-5 gx-xl-8'>
       <div className='col-xl-8'>
         <TablesWidget10 className='card-xxl-stretch mb-5 mb-xl-8' />
-      </div>
-    </div>
-    {/* end::Row */}
-
-    {/* begin::Row */}
-    <div className='row gy-5 g-xl-8'>
-      <div className='col-xl-4'>
-        <ListsWidget2 className='card-xl-stretch mb-xl-8' />
-      </div>
-      <div className='col-xxl-8'>
-        <TablesWidget5 className='card-xxl-stretch mb-5 mb-xxl-8' />
       </div>
     </div>
     {/* end::Row */}
