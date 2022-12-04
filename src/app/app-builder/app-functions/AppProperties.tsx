@@ -7,12 +7,11 @@ export function AppProperties() {
 			{/* begin::View component */}
 			<div
 				id="kt_drawer_example_basic"
-				className="bg-dark"
+				className="bg-dark w-l-50 w-s-75"
 				data-kt-drawer="true"
 				data-kt-drawer-activate="true"
 				data-kt-drawer-toggle="#kt_drawer_example_basic_button"
 				data-kt-drawer-close="#kt_drawer_example_basic_close"
-				data-kt-drawer-width="500px"
 			>
 				<div className="card w-100 rounded-0 border-0" id="kt_drawer_chat_messenger">
 					{/* begin::Card header */}
