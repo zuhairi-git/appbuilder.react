@@ -1,9 +1,11 @@
 import React from 'react'
 import { AppNewItem } from './app-functions/AppNewItem'
+import { AppProperties } from './app-functions/AppProperties'
 
 export function AppDesign() {
   return (
     <>
+
       <div className="card shadow-sm mb-5" id='app-design'>
         <div className="card-header collapsible cursor-pointer rotate" data-bs-toggle="collapse" data-bs-target="#nav">
           <h3 className="card-title">Navigations</h3>

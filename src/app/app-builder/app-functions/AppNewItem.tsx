@@ -1,4 +1,5 @@
 import React from 'react'
+import { AppProperties } from './AppProperties'
 
 export function AppNewItem() {
   return (
@@ -32,6 +33,13 @@ export function AppNewItem() {
           </select>
         </div>
       </div>
+      <div className="col-md-auto">
+        <div className="vstack mb-3">
+          <label>Functions Properties</label>
+          <AppProperties />
+        </div>
+      </div>
+
       <div className="col-md-auto">
         <div className="vstack mb-3">
           <label>Visibility</label>

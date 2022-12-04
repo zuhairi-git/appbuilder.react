@@ -48,7 +48,7 @@ const HeaderUserMenu: FC = () => {
       </div>
 
       <div
-        className='menu-item px-5'
+        className='menu-item px-5 d-none'
         data-kt-menu-trigger='hover'
         data-kt-menu-placement='left-start'
         data-kt-menu-flip='bottom'
