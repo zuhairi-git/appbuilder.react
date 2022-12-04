@@ -16,7 +16,7 @@ const Item5: FC = () => {
         </div>
       </div>
 
-      <div className='timeline-content mb-10 mt-n1'>
+      <div className='d-none timeline-content mb-10 mt-n1'>
         <div className='pe-3 mb-5'>
           <div className='fs-5 fw-bold mb-2'>3 new application design concepts added:</div>
 

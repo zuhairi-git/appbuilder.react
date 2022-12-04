@@ -20,7 +20,8 @@ const HeaderUserMenu: FC = () => {
 
           <div className='d-flex flex-column'>
             <div className='fw-bolder d-flex align-items-center fs-5'>
-              {currentUser?.first_name} {currentUser?.first_name}
+              Ali Zuhairi
+              {/* {currentUser?.first_name} {currentUser?.last_name} */}
               <span className='badge badge-light-success fw-bolder fs-8 px-2 py-1 ms-2'>Pro</span>
             </div>
             <a href='#' className='fw-bold text-muted text-hover-primary fs-7'>
@@ -42,7 +43,7 @@ const HeaderUserMenu: FC = () => {
         <a href='#' className='menu-link px-5'>
           <span className='menu-text'>My Projects</span>
           <span className='menu-badge'>
-            <span className='badge badge-light-danger badge-circle fw-bolder fs-7'>3</span>
+            <span className='badge badge-light-danger badge-circle fw-bolder fs-7'>1</span>
           </span>
         </a>
       </div>

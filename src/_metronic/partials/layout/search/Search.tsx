@@ -90,7 +90,7 @@ const Search: FC = () => {
           >
             <form
               data-kt-search-element='form'
-              className='w-100 position-relative mb-3'
+              className='d-none w-100 position-relative mb-3'
               autoComplete='off'
             >
               <KTSVG
@@ -421,7 +421,7 @@ const Search: FC = () => {
               </div>
             </div>
 
-            <div ref={suggestionsElement} className='mb-4' data-kt-search-element='main'>
+            <div ref={suggestionsElement} className='d-none mb-4' data-kt-search-element='main'>
               <div className='d-flex flex-stack fw-bold mb-4'>
                 <span className='text-muted fs-6 me-2'>Recently Searched:</span>
               </div>
