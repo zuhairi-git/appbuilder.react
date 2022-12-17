@@ -26,7 +26,7 @@ const PrivateRoutes = () => {
     <Routes>
       <Route element={<MasterLayout />}>
         {/* Redirect to Dashboard after success login/registartion */}
-        <Route path='auth/*' element={<Navigate to='/dashboard' />} />
+        <Route path='auth/*' element={<Navigate to='/app-projects' />} />
         {/* Pages */}
         <Route path="app-define" element={<AppDefine />} />
         <Route path="app-design" element={<AppDesign />} />
