@@ -2,7 +2,12 @@
   "name": "appbuilder.react",
   "version": "8.1.5",
   "private": true,
-  "homepage": "https://appbuilder.cc/",
+  "homepage": "https://zuhairi-git.github.io/appbuilder.react",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+  },
+  
   "dependencies": {
     "@formatjs/intl-pluralrules": "4.3.3",
     "@formatjs/intl-relativetimeformat": "10.0.1",
