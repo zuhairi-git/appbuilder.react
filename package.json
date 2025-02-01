@@ -3,10 +3,6 @@
   "version": "8.1.5",
   "private": true,
   "homepage": "https://zuhairi-git.github.io/appbuilder.react",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-  },
   
   "dependencies": {
     "@formatjs/intl-pluralrules": "4.3.3",
@@ -78,7 +74,7 @@
     "eject": "react-scripts eject",
     "lint": "prettier --check .",
     "format": "prettier --write .",
-    "rtl": "webpack --config=rtl.config.js"
+    "rtl": "webpack --config=rtl.config.js",
   },
   "eslintConfig": {
     "extends": [
